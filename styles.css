@@ -169,6 +169,7 @@ main {
     border-radius: 5px;
     box-shadow: var(--shadow);
     margin-bottom: 40px;
+    text-align: center;
 }
 
 /* Events Grid */
