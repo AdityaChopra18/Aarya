@@ -274,6 +274,15 @@ main {
     font-weight: bold;
 }
 
+/* Contact*/
+.contact {
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: var(--shadow);
+    margin-top: 40px;
+    text-align: center;
+} 
 /* Registration */
 .register {
     background-color: white;
